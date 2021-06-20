@@ -264,3 +264,4 @@ fabric.properties
 ./coverage/
 ./dist/
 yarn.lock
+.idea/
